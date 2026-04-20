@@ -1,4 +1,5 @@
 <h1 align="center">⚡ Ultra AI Chatbot</h1>
+<p align="center">💻 Desktop App | 🤖 Chatbot | 🎯 Clean UI Project</p>
 <p align="center">A modern desktop chatbot with a clean WhatsApp-style UI built using Python</p>
 <p align="center">🚀 Built with Python | Clean UI | Smooth Performance</p>
 
@@ -29,10 +30,30 @@ It simulates real-time messaging with a modern UI and smooth user experience.
 
 ---
 
+## 🚀 Key Highlights
+- Built a real-time chat UI using Tkinter  
+- Implemented multithreading for smooth performance  
+- Designed user-bot message alignment system  
+- Packaged as standalone desktop application (.exe)
+
+---
+
 ## 🎥 Demo
 
-![Chatbot Demo](screenshot.png)
+![Chatbot Demo](screenshot.png.png)
 
+---
+
+## 💬 Example Interaction
+
+User: Hello  
+Bot: Hey 👋  
+
+User: What is API  
+Bot: API stands for Application Programming Interface  
+
+User: time  
+Bot: Current time is HH:MM:SS  
 ---
 
 ## 📂 Project Structure
