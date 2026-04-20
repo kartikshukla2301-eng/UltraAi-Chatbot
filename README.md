@@ -40,7 +40,7 @@ It simulates real-time messaging with a modern UI and smooth user experience.
 
 ## 🎥 Demo
 
-![Chatbot Demo](screenshot.png.png)
+![Chatbot Demo](chatbot-ui.png)
 
 ---
 
